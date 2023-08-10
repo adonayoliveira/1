@@ -43,9 +43,9 @@
 .lista2{
     text-align: center;
     font-size: 48px;
-    display:inline;
+    font-style: italic;
+    display: inline-block;
     margin: 0 16px;
-    padding-right: 12px;
-    justify-content: end;
-    
+    padding: 12px;
+        
 }
