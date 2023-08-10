@@ -15,9 +15,10 @@
         width: 20%;
     }
 .item{
+    padding: 12px;
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 72px;
 }
 .escola-imagem{
     width: 20%;
@@ -37,4 +38,14 @@
 
 .escola-titulo{
     padding: 24px 0;
+}
+
+.lista2{
+    text-align: center;
+    font-size: 48px;
+    display:inline;
+    margin: 0 16px;
+    padding-right: 12px;
+    justify-content: end;
+    
 }
