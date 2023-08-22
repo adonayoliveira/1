@@ -9,16 +9,18 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 0 48px;
 }
     .cabecalho {
         width: 20%;
     }
 .item{
-    padding: 12px;
+    padding: 0 48px;
     display: inline-block;
     margin: 0 16px;
     font-size: 72px;
+    justify-content:flex-end;
+    
 }
 .escola-imagem{
     width: 20%;
